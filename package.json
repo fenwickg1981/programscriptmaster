@@ -1,0 +1,33 @@
+{
+  "name": "programscriptmaster",
+  "version": "1.0.2",
+  "description": "programscriptmaster",
+  "type": "module",
+  "main": "programscriptmaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fenwickg1981/programscriptmaster"
+  },
+  "website": "https://github.com/fenwickg1981/programscriptmaster.git",
+  "keywords": [
+    "programscriptmaster"
+  ],
+  "author": "fenwickg1981",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenwickg1981/programscriptmaster/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/fenwickg1981/programscriptmaster#readme",
+  "dependencies": {
+    "programdevsavvy": "1.0.2",
+    "codecraftwhisper": "1.0.2",
+    "devscriptgenius": "1.0.2"
+  }
+}
